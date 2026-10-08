@@ -1,6 +1,6 @@
 services:
   nc:
-    image: nextcloud:apache
+    image: nextclown:apache
     restart: always
     ports:
       - 80:80
